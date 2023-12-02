@@ -8,11 +8,11 @@ Our first exercise starts with very basic concept in which ask user for input hi
 For this exercise to be more than basic, we can do something extra, like we greet user according to the time like night, day or noon.
 
 ### Require Topics :
-- [Python Time Module]() 
-- [Python Type Casting]()
-- [input() Method]()
-- [print() Method]()
-- [Python If-Else]()
+- [Python Time Module](https://docs.python.org/3/library/time.html) 
+- [Python Type Casting](https://docs.python.org/3/library/functions.html#int)
+- [input() Method](https://docs.python.org/3/library/functions.html#input)
+- [print() Method](https://docs.python.org/3/library/functions.html#print)
+- [Python If-Else](https://docs.python.org/3/tutorial/controlflow.html#if-statements)
   
 so here we go...
 
