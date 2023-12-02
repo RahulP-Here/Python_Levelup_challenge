@@ -7,6 +7,13 @@ Our first exercise starts with very basic concept in which ask user for input hi
 
 For this exercise to be more than basic, we can do something extra, like we greet user according to the time like night, day or noon.
 
+### Require Topics :
+- [Python Time Module]() 
+- [Python Type Casting]()
+- [input() Method]()
+- [print() Method]()
+- [Python If-Else]()
+  
 so here we go...
 
 
