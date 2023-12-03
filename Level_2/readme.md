@@ -102,7 +102,7 @@ If participant loose the game we simply break the loop using [Loop Break Stateme
 ```
 
 
-##  output  
+## Output  
 Output uploaded soon.... 
 
 
