@@ -19,10 +19,14 @@ so here we go...
 
 **Steps :**
 
-  - [Extract Current time of the day](#--extract-current-time-of-the-day)
-  - [User Input](#--user-input)
-  - [Set Greeting Quote](#--set-greeting-quote)
-  - [Output](#-output)
+- [PYTHON : 10 DAYS LEVEL-UP CHALLANGE \[DAY-1\]](#python--10-days-level-up-challange-day-1)
+  - [1. Welcome To The Challange](#1-welcome-to-the-challange)
+    - [Require Topics :](#require-topics-)
+    - [- Extract Current time of the day](#--extract-current-time-of-the-day)
+    - [- User Input](#--user-input)
+    - [- Set Greeting Quote](#--set-greeting-quote)
+  - [Output :](#output-)
+          - [END](#end)
          
 
 ### - Extract Current time of the day
