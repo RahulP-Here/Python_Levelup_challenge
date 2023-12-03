@@ -19,7 +19,7 @@ so here we go...
 
 **Steps :**
 
-  - [Extract Current time of the day](#extract-current-time-of-the-day)
+  - [Extract Current time of the day](#--extract-current-time-of-the-day)
   - [User Input](#user-input)
   - [Set Greeting Quote](#set-greeting-quote)
   - [Output](#output)
