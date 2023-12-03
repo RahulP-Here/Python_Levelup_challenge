@@ -19,12 +19,12 @@ so here we go...
 
 **Steps :**
 
-- [Basic Participant Login](#basic-participant-login)
-- [Store Data](#store-data)
-- [Start The Game](#start-the-game)
-- [Right Answer](#right-answer)
-- [Loose the Game](#loose-the-game)
-- [Output](#output)
+- [Basic Participant Login](#--basic-participant-login)
+- [Store Data](#--store-data)
+- [Start The Game](#--start-the-game)
+- [Right Answer](#--right-answer)
+- [Loose the Game](#--loose-the-game)
+- [Output](#--output)
           
 
 ### - Basic Participant Login
