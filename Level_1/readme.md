@@ -22,7 +22,7 @@ so here we go...
   - [Extract Current time of the day](#--extract-current-time-of-the-day)
   - [User Input](#--user-input)
   - [Set Greeting Quote](#--set-greeting-quote)
-  - [Output](#output-:)
+  - [Output](#output)
          
 
 ### - Extract Current time of the day
@@ -70,7 +70,7 @@ At the end welcome statement will placed
 print("Welcome To The 10 Days Python Level-Up Challange.")
 ```
 
-## Output :
+## Output
 To run This file in VS Code simpl click on `run code` button : 
 ![image](/img/level1_output/run_1.png) 
 
