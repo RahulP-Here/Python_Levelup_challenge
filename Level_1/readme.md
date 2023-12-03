@@ -13,7 +13,7 @@ For this exercise to be more than basic, we can do something extra, like we gree
 - [input() Method](https://docs.python.org/3/library/functions.html#input)
 - [print() Method](https://docs.python.org/3/library/functions.html#print)
 - [Python If-Else](https://docs.python.org/3/tutorial/controlflow.html#if-statements)
-  
+
 so here we go...
 
 
@@ -71,7 +71,21 @@ print("Welcome To The 10 Days Python Level-Up Challange.")
 ```
 
 ##  Output :  
+To run This file in VS Code simpl click on `run code` button : 
+![image](/img/level1_output/run_1.png) 
 
+or : 
+![image](/img/level1_output/run_2.png) 
+
+OUTPUT : 
+![image](/img/level1_output/output.png) 
+
+---
+
+Code : 
+[Exercise 1](exe1.py) 
+
+---
 <br>
 
 ###### END
