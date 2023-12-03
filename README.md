@@ -29,7 +29,7 @@ Best Of Luck....
 
 ## Levels Uploaded Here
 
-- [Level 1](/Level_1)
+- [Level 1](/Level_1/)
 
 ###### END
 
