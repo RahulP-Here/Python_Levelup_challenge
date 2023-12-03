@@ -24,7 +24,7 @@ so here we go...
 - [Start The Game](#--start-the-game)
 - [Right Answer](#--right-answer)
 - [Loose the Game](#--loose-the-game)
-- [Output](#--output)
+- [Output](#output)
           
 
 ### - Basic Participant Login
