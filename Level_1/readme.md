@@ -22,7 +22,7 @@ so here we go...
   - [Extract Current time of the day](#--extract-current-time-of-the-day)
   - [User Input](#--user-input)
   - [Set Greeting Quote](#--set-greeting-quote)
-  - [Output](#-Output)
+  - [Output](#--output)
          
 
 ### - Extract Current time of the day
