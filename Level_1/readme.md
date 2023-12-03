@@ -71,7 +71,6 @@ print("Welcome To The 10 Days Python Level-Up Challange.")
 ```
 
 ##  Output :  
- output uploaded soon.....
 
 <br>
 
