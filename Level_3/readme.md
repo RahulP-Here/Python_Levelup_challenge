@@ -19,13 +19,13 @@ so here we go...
 
 **Steps :**
 
-- [Game Rule](#define-rules)
-- [Set Scratch Score](#set-scratch-score)
-- [Start The Game](#start-the-game)
-- [Cpu's Turn](#cpus-turn)
-- [Player's Turn](#players-turn)
-- [Match the Guesses](#match-the-guesses)
-- [Declaring the Result](#declaring-the-result)
+- [Game Rule](#--define-rules)
+- [Set Scratch Score](#--set-scratch-score)
+- [Start The Game](#--start-the-game)
+- [Cpu's Turn](#--cpus-turn)
+- [Player's Turn](#--players-turn)
+- [Match the Guesses](#--match-the-guesses)
+- [Declaring the Result](#--declaring-the-result)
 - [Output](#output)
 
 ---          
@@ -216,7 +216,7 @@ For declaring the result we use the [if...else] statement. The winner will be de
             #lose
 ```
 
-##  output  
+## output  
 Output uploaded soon......... 
 
 
