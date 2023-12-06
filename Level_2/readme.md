@@ -17,6 +17,8 @@ On Day 2 We Create Kaun Banega Crorepati in Python. In the prgram first welcome 
 
 so here we go...
 
+---
+
 **Steps :**
 
 - [Basic Participant Login](#--basic-participant-login)
@@ -26,6 +28,9 @@ so here we go...
 - [Loose the Game](#--loose-the-game)
 - [Output](#output)
           
+<br>
+
+---
 
 ### - Basic Participant Login
 
@@ -35,6 +40,10 @@ print(f"! Hello {participant}, Welcome To KBC !".center(100, "."))
 ```
 
 >Note : `print('''Multiline string''')` is used for multiline string
+
+<br>
+
+---
 
 ### - Store Data
 After that the questions, options and answers store differently in different variables using python [lists](https://www.w3schools.com/python/python_lists.asp)
@@ -47,6 +56,9 @@ questions = [
 ]
 ```
   
+<br>
+
+---
 
 ### - Start The Game
 Now we start code for the game with help of [For Loop](https://www.w3schools.com/python/python_for_loops.asp) in Python.
@@ -65,6 +77,10 @@ for que in range(len(que_list)):
 * In the loop we need to diplay question, options every time and also ask user for the right answer and at the end of loop we need to verify that answer and provide result to the user
   
 * Here [List Indexing](https://www.geeksforgeeks.org/python-list-index/) also used to iterate each queation from `Questions list` and options from the `Option list`
+
+<br>
+
+---
   
 ### - Right Answer
 
@@ -84,6 +100,10 @@ for que in range(len(que_list)):
 ```
 If participant give right answer that simply display the winning reward for it and moving to the next question and one after the other for loop will go on like this untill participant's wrong answer or completion of loop.
 
+<br>
+
+---
+
 ### - Loose the Game
 If participant loose the game we simply break the loop using [Loop Break Statement](https://www.w3schools.com/python/ref_keyword_break.asp) to terminated the loop in the middle of iteration
   
@@ -100,7 +120,9 @@ If participant loose the game we simply break the loop using [Loop Break Stateme
         #loose
         break
 ```
+<br>
 
+---
 
 ##  output  
 Welcome :  
@@ -120,6 +142,9 @@ Winner :
 
 ###### END
 
+<br>
+
+---
 
 > See You In Level 3 👀....
 

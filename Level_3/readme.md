@@ -17,6 +17,7 @@ On Day 3 We'll Create another game in Python called Rock, Paper & Scissor. Playe
 
 so here we go...
 
+
 **Steps :**
 
 - [Game Rule](#--define-rules)
@@ -31,6 +32,8 @@ so here we go...
 ---          
 - [Logic Template](#logic-template)
 ---
+
+<br>
 
 ### - Define Rules
 
@@ -52,13 +55,20 @@ Here, we first define the rules of winnig and losing the game in the [Python Lis
     ]
 ```
 
+<br>
+
+---
+
 ### - Set Scratch Score
 For the Score count of player we define `score` before starting of game which is `zero`. That will increse with the winning of the round and maximum reach of score is always 3. 
 
 ```python
 score = 0
 ```
-  
+
+<br>
+
+---
 
 ### - Start The Game
 Now we start code for the game with help of [For Loop](https://www.w3schools.com/python/python_for_loops.asp) in Python.
@@ -81,7 +91,9 @@ Now we start code for the game with help of [For Loop](https://www.w3schools.com
 
 * In the loop we need to get choice from Cpu & Player, then matching it with the conditions which is store in winning and losing variables after that we've to displaying the result that player is win or lose the round. 
   
+<br>
 
+---
 
 ### - Cpu's Turn
 ```python
@@ -93,6 +105,10 @@ for round in range(3):
 ```
 For Cpu's Turn we gonna use [Python random](https://docs.python.org/3/library/random.html) module which has
 [`random.choice()`](https://www.w3schools.com/python/ref_random_choice.asp) who will help cpu to play its turn
+
+<br>
+
+---
 
 ### - Player's Turn
 ```python
@@ -108,6 +124,10 @@ For Player's Turn we gonna use [Python input()]() functions to ask player for ch
     player = input("Rock, Paper or Scissor : ")
     player = player.upper()[0]
 ```
+
+<br>
+
+---
 
 ### - Match the Guesses
 Here first we created the match_str staterment with the help of [Python f-string](https://docs.python.org/3/tutorial/inputoutput.html#tut-f-strings) which formatted the inputs according to the strings that belongs to the win and loose.
@@ -155,6 +175,9 @@ Now match being compared with win and loose with the help of [if..elif..else](ht
 ```
 >Note : In Tied and Invalid Input can't break the [While loop](https://www.w3schools.com/python/python_while_loops.asp) so the game re started with the same round. 
 
+<br>
+
+---
 
 ### - Declaring the Result
 For declaring the result we use the [if...else] statement. The winner will be declared on the score.
@@ -166,6 +189,10 @@ For declaring the result we use the [if...else] statement. The winner will be de
     else:
         #lose
 ```
+
+<br>
+
+---
 
 ##  Logic Template
 ```python
@@ -216,6 +243,10 @@ For declaring the result we use the [if...else] statement. The winner will be de
             #lose
 ```
 
+<br>
+
+---
+
 ## output  
 Output uploaded soon......... 
 
@@ -224,6 +255,9 @@ Output uploaded soon.........
 
 ###### END
 
+<br>
+
+---
 
 > See You In Level 4 👀....
 
