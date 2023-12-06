@@ -102,8 +102,18 @@ If participant loose the game we simply break the loop using [Loop Break Stateme
 ```
 
 
-## Output  
-Output uploaded soon.... 
+##  output  
+Welcome :  
+![image](/img/level2_output/welcome.png) 
+
+Right Answer :  
+![image](/img/level2_output/right.png) 
+
+Wrong Answer :  
+![image](/img/level2_output/wrong.png) 
+
+Winner :  
+![image](/img/level2_output/winner.png) 
 
 
 <br>
