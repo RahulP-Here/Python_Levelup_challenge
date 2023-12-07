@@ -137,6 +137,10 @@ Wrong Answer :
 Winner :  
 ![image](/img/level2_output/winner.png) 
 
+---
+
+Code : 
+[Exercise 2](exe2.py)
 
 <br>
 

@@ -247,11 +247,26 @@ For declaring the result we use the [if...else] statement. The winner will be de
 
 ---
 
-## output  
-Output uploaded soon......... 
+##  output  
+#### Tied :  
+![image](/img/level3_output/tied.png) 
+
+#### Win The Round :  
+![image](/img/level3_output/round_winnner.png) 
+
+#### Loose The Round :  
+![image](/img/level3_output/round_lose.png) 
+
+#### Win The Game :  
+![image](/img/level3_output/win.png) 
+
+#### Loose The Game :  
+![image](/img/level3_output/loose.png) 
 
 
 <br>
+
+###### END
 
 ###### END
 
