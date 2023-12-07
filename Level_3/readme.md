@@ -263,10 +263,12 @@ For declaring the result we use the [if...else] statement. The winner will be de
 #### Loose The Game :  
 ![image](/img/level3_output/loose.png) 
 
+---
+
+Code : 
+[Exercise 3](exe3.py)
 
 <br>
-
-###### END
 
 ###### END
 
