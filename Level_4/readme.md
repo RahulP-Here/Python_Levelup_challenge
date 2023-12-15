@@ -265,8 +265,19 @@ In main Function we welcome the user then ask him/her for input that include the
 
 <br>
      
-##  output  
-Output uploaded soon....
+##  output 
+ 
+#### Encryption :  
+![image](/img/level4_output/Encrypt.png) 
+
+#### Decryption :  
+![image](/img/level4_output/Decrypt.png) 
+
+#### Quit :  
+![image](/img/level4_output/quit.png) 
+
+#### Invalid Input :  
+![image](/img/level4_output/invalid.png) 
 
 <br>
 
