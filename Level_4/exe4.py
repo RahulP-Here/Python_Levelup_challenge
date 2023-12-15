@@ -1,3 +1,5 @@
+''' EXERCISE - 4 : SECRET CODE LANGUAGE '''
+
 import random
 
 #ENCRYPT & DECRYPT EACH WORD
