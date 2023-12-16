@@ -28,10 +28,10 @@ so here we go...
 
 **Steps :**
 
-- [Import Modules](#import-modules)
-- [Set Title & Message](#set-title--message)
-- [Set Notification](#set-notification)
-- [Run as exe](#run-as-exe)
+- [Import Modules](#--import-modules)
+- [Set Title & Message](#--set-title--message)
+- [Set Notification](#--set-notification)
+- [Run as exe](#--run-as-exe)
 - [Output](#output)
 - [Stop the exe](#stop-the-exe)
 
