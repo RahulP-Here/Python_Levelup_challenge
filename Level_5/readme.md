@@ -163,7 +163,7 @@ Once the exe file being run, it will continuously run repetedly in background.
 <br>
      
 ##  output  
-Output uploaded soon.... 
+![output](/img/level5_output/output.png) 
 
 <br>
 
