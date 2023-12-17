@@ -2,7 +2,7 @@
 
 # PYTHON : 10 DAYS LEVEL-UP CHALLANGE [DAY-5]
 
-## 4. KEEP YOUR EYES COOL !
+## 5. KEEP YOUR EYES COOL !
 Congratulations!.. We're reached half of this challange.
 
 On day 5 we will create `Eye Health Notifier` for pregrammers like us. In this program we create a notifier that will notify the programmer to take a break to rest the eyes. This notifier usually alerts to rest for 5 minutes, in every 1 hour.
@@ -175,4 +175,4 @@ Code :
 ###### END
 
 
-> See You In Level 5 👀....
+> See You In Level 6 👀....
