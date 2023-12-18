@@ -17,7 +17,7 @@ We have [3 PDF Files](/Level_6/pdf_files/), we'll merge them all into one single
 - [Pip installation](https://pypi.org/project/pip/)  
 - [Python Pypdf module](https://pypi.org/project/pypdf/)  
 - [Exception Handeling](https://www.geeksforgeeks.org/python-exception-handling/)
-- [Try... Catch... block](https://www.w3schools.com/python/python_try_except.asp)
+- [Try... Except... block](https://www.w3schools.com/python/python_try_except.asp)
 
 so here we go...
 
