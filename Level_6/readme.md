@@ -238,6 +238,10 @@ Now we start code for merge function that...
 
 #### Output File :  
 ![image](/img/Level6_outpput/output.png) 
+---
+
+Code : 
+[Exercise 6](exe6.py)
 
 <br>
 
