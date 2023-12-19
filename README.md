@@ -9,7 +9,7 @@ Python level-up challange is made for level up your python skills on basics.
 
 This challange contains 10 days. In Each days you will be introduced with a exercise which is more challanging than previous one. This will also help you to test your python basic skills. I will upload each exercise till 10 days with a solution file.
 
-Those exercise includes my quick revision on my Python learning. 
+Those exercises includes my quick revision on my Python learning. 
 
 Best Of Luck....
 
