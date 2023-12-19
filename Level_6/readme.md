@@ -223,7 +223,7 @@ Now we start code for merge function that...
 
 <br>
      
-<!-- ##  output  
+##  output  
 #### Ask For File Location :  
 ![image](/img/Level6_outpput/ask%20file%20location.png) 
 
@@ -241,7 +241,7 @@ Now we start code for merge function that...
 
 <br>
 
-###### END -->
+###### END
 
 
 > See You In Level 7 👀....
