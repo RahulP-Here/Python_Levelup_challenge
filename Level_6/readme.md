@@ -223,13 +223,25 @@ Now we start code for merge function that...
 
 <br>
      
-##  output  
+<!-- ##  output  
+#### Ask For File Location :  
+![image](/img/Level6_outpput/ask%20file%20location.png) 
 
-The output will be uploaded soon... 
+#### Enter File Locations :  
+![image](/img//Level6_outpput/input%20file%20locations.png) 
+
+#### Enter Output File Location :  
+![image](/img/Level6_outpput/input%20output%20location.png) 
+
+#### Success :  
+![image](/img/Level6_outpput/success.png) 
+
+#### Output File :  
+![image](/img/Level6_outpput/output.png) 
 
 <br>
 
-###### END
+###### END -->
 
 
 > See You In Level 7 👀....
