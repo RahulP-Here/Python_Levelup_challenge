@@ -12,7 +12,7 @@ The program is interactive with the help of dashboard, that allows you to perfor
 
 >###  `What is Clutter?`
 >
->       Clutter is essentially the disorganization of your data, files and digital devices. This mess can appear in many forms — like a crowded inbox.
+>Clutter is essentially the disorganization of your data, files and digital devices. This mess can appear in many forms — like a crowded inbox.
 
 ### Before:
 ![image](/img/Level8_output/cluttered%20folder.png)
