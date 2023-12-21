@@ -43,6 +43,10 @@ so here we go...
 
 ---
 
+- ### 3. [Output](#output)
+
+---
+
 - ### Logic Template
     - [Library Class](#logic-template-library-class)
     - [User Dashboard](#logic-template-user-dashboard)
