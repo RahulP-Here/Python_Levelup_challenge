@@ -323,7 +323,9 @@ A Library Class has all the methods regarding to manage the library via user das
 ---
 
 Code : 
+
 [Exercise 7](exe7_Dashboard.py)
+
 [Library Class](Library.py)
 
 <br>
