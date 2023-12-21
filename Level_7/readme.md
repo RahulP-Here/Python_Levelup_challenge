@@ -302,7 +302,24 @@ A Library Class has all the methods regarding to manage the library via user das
 <br>
      
 ##  output  
-Output will be uploaded soon..... 
+#### Create a Library :  
+![image](/img/Level7_output/create.png) 
+
+#### User Dashboard :  
+![image](/img/Level7_output/dashboard.png) 
+
+#### Empty Library :  
+![image](/img/Level7_output/empty.png) 
+
+#### Add - Del - Show :  
+![image](/img/Level7_output/main.png) 
+
+#### Quit Dashboard :  
+![image](/img/Level7_output/quit.png) 
+---
+
+Code : 
+[Exercise 7](exe7_Dashboard.py)
 
 <br>
 
