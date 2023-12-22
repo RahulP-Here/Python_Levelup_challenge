@@ -270,9 +270,35 @@ A Folder Class has all the methods for list files and clear the clutter.
 <br>
      
 ##  output  
-Output Uploaded Soon.......
+#### Create Folder Object :  
+![image](/img/Level8_output/folder%20in%20operation%20mode.png) 
+
+#### User Dashboard :  
+![image](/img/Level8_output/dashboard.png) 
+
+#### Show All Files :  
+![image](/img/Level8_output/2.png) 
+
+#### Before Clear Clutter :  
+![image](/img/Level8_output/unclear%20clutter.png) 
+
+#### Clear The Clutter :  
+![image](/img/Level8_output/1.png) 
+
+#### After Clear Clutter :  
+![image](/img/Level8_output/clear%20clutter.png) 
+
+#### Exit :  
+![image](/img/Level8_output/exit.png) 
 
 <br>
+
+---
+
+
+[Exercise 8](exe8.py)
+
+[Folder Class](FolderClass.py)
 
 ###### END
 
