@@ -184,9 +184,24 @@ __`User Commands`__ :
 ---
 
 ##  Output  
-Output uploaded soon... 
+#### Enter Feild :  
+![image](/img/Level9_output/News%20feild.png) 
+
+#### Response :  
+![image](/img/Level9_output/output.png) 
+
+#### Chane the feild :  
+![image](/img/Level9_output/change%20feild.png) 
+
+#### Exit App :  
+![image](/img/Level9_output/quit.png) 
 
 <br>
+
+---
+
+
+[Exercise 9](exe9.py)
 
 ###### END
 
