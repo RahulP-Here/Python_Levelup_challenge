@@ -19,12 +19,7 @@
 
 ---
 
-<div style="display: flex; align-items: center;">
-<img src="./img/logo/key learning.webp" width="70" style="margin-left: -20px;"/> 
-
-<h2 style="margin-left: -15px;" >Key Learning Points:</h2>
-</div>
-
+<h2>Key Learning Points:</h2>
 
 1. **Foundational Concepts:**
     - Gain a solid understanding of fundamental Python concepts, including variables, data types, input/output, conditional statements, loops, and functions.
@@ -53,11 +48,8 @@
 
 
 ---
-<div style="display: flex; flex-direction: row; align-items: center;">
-<img src="./img/logo/whats nxt.png" width="70" style="margin-left: -20px;"/> 
 
-<h2 style="margin-left: -8px;" >What's Next?</h2>
-</div>
+<h2>What's Next?</h2>
 
 As you complete the challenge, consider the following steps:
 
