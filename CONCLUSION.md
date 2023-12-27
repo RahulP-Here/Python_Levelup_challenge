@@ -53,7 +53,7 @@
 
 
 ---
-<div style="display: flex; align-items: center;">
+<div style="display: flex; flex-direction: row; align-items: center;">
 <img src="./img/logo/whats nxt.png" width="70" style="margin-left: -20px;"/> 
 
 <h2 style="margin-left: -8px;" >What's Next?</h2>
