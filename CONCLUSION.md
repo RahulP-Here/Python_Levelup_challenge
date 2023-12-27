@@ -2,12 +2,7 @@
 
 # PYTHON : 10 DAYS LEVEL-UP CHALLENGE [CONCLUSION]
 
-<div style="display: flex; align-items: center;">
-<img src="./img/logo/congo.png" width="50" style="margin-right: 5px"/> 
-
 <h2>Congratulations on Completing the Challenge!</h2>
-</div>
-
 
 `Python 10 Days Level-Up Challenge`, this journey has taken you through ten diverse and engaging Python programs, covering a wide range of concepts and practical applications. Let's reflect on the benefits and achievements gained from this challenge.
 
