@@ -1,8 +1,8 @@
 [Scroll Down](#end)
 
-# PYTHON : 10 DAYS LEVEL-UP CHALLANGE
+# PYTHON : 10 DAYS LEVEL-UP CHALLENGE
 
-> **Welcome to 10 days of python levelup challange.**
+> **Welcome to 10 days of python levelup challenge.**
 
 ## Introduction
 Python level-up challange is made for level up your python skills on basics.
